@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-cors-headers
+pyjwt
+Pillow
+numpy
+scikit-learn==1.3.0
